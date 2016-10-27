@@ -4,6 +4,10 @@
 #         self.val = x
 #         self.left = None
 #         self.right = None
+
+# Time Complexity: O(n)
+# Auxiliary Space : O(1) if Function Call Stack size is not considered, otherwise O(n)
+
 import sys
 INT_MAX = sys.maxint
 INT_MIN = -1 - sys.maxint
